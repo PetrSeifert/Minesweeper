@@ -1,0 +1,11 @@
+F:\Projekt-Hledání_Min\bin\Release\Projekt-Hledání_Min.exe.config
+F:\Projekt-Hledání_Min\bin\Release\Projekt-Hledání_Min.exe
+F:\Projekt-Hledání_Min\bin\Release\Projekt-Hledání_Min.pdb
+F:\Projekt-Hledání_Min\obj\Release\Projekt-Hledání_Min.csprojAssemblyReference.cache
+F:\Projekt-Hledání_Min\obj\Release\Projekt_Hledání_Min.Form1.resources
+F:\Projekt-Hledání_Min\obj\Release\Projekt_Hledání_Min.Properties.Resources.resources
+F:\Projekt-Hledání_Min\obj\Release\Projekt_Hledání_Min.Scoreboard.resources
+F:\Projekt-Hledání_Min\obj\Release\Projekt-Hledání_Min.csproj.GenerateResource.cache
+F:\Projekt-Hledání_Min\obj\Release\Projekt-Hledání_Min.csproj.CoreCompileInputs.cache
+F:\Projekt-Hledání_Min\obj\Release\Projekt-Hledání_Min.exe
+F:\Projekt-Hledání_Min\obj\Release\Projekt-Hledání_Min.pdb
